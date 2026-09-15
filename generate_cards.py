@@ -24,6 +24,13 @@ projects = [
         "font_size": 12
     },
     {
+        "id": "quickbazaria",
+        "name": "QuickBazaria",
+        "icon_file": "assets/projects/quickbazaria.png",
+        "link": "https://play.google.com/store/apps/details?id=com.quickbazaria.app",
+        "font_size": 11.5
+    },
+    {
         "id": "dblite",
         "name": "DB Lite",
         "icon_file": "assets/projects/dblite.png",

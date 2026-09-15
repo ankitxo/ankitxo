@@ -9,6 +9,9 @@ Building for iOS is what excites me most. I enjoy working with Swift and SwiftUI
 ## 📱 Projects
 
 <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.quickbazaria.app">
+    <img src="./assets/projects/quickbazaria.svg" alt="QuickBazaria" width="96" />
+  </a>
   <a href="https://play.google.com/store/apps/details?id=com.teamvx.app">
     <img src="./assets/projects/teamvx.svg" alt="TeamVx" width="96" />
   </a>
