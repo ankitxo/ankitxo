@@ -21,7 +21,7 @@ Building for iOS is what excites me most. I enjoy working with Swift and SwiftUI
   <a href="https://play.google.com/store/apps/details?id=in.onespect.onespect_flutter_mobile_app">
     <img src="./assets/projects/onespect.svg" alt="Onespect" width="96" />
   </a>
-  <a href="https://www.indusappstore.com/apps/productivity/db-lite/me.ankit.dblite?page=details&id=me.ankit.dblite">
+  <a href="https://play.google.com/store/apps/details?id=me.ankit.dblite">
     <img src="./assets/projects/dblite.svg" alt="DB Lite" width="96" />
   </a>
   <a href="https://www.indusappstore.com/apps/productivity/my-notes/io.github.ankitdotdev.my_notes?page=details&id=io.github.ankitdotdev.my_notes">
